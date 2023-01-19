@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/axios-pokemon/static/css/main.073c9b0a.css",
-    "main.js": "/axios-pokemon/static/js/main.ba0a2c9d.js",
-    "static/js/787.04e45be7.chunk.js": "/axios-pokemon/static/js/787.04e45be7.chunk.js",
-    "static/media/logo.svg": "/axios-pokemon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/axios-pokemon/static/css/main.964fdded.css",
+    "main.js": "/axios-pokemon/static/js/main.e88c93d7.js",
     "index.html": "/axios-pokemon/index.html",
-    "main.073c9b0a.css.map": "/axios-pokemon/static/css/main.073c9b0a.css.map",
-    "main.ba0a2c9d.js.map": "/axios-pokemon/static/js/main.ba0a2c9d.js.map",
-    "787.04e45be7.chunk.js.map": "/axios-pokemon/static/js/787.04e45be7.chunk.js.map"
+    "main.964fdded.css.map": "/axios-pokemon/static/css/main.964fdded.css.map",
+    "main.e88c93d7.js.map": "/axios-pokemon/static/js/main.e88c93d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ba0a2c9d.js"
+    "static/css/main.964fdded.css",
+    "static/js/main.e88c93d7.js"
   ]
 }
