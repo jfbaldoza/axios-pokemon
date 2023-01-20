@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/axios-pokemon/static/css/main.964fdded.css",
-    "main.js": "/axios-pokemon/static/js/main.e88c93d7.js",
+    "main.css": "/axios-pokemon/static/css/main.847f05c2.css",
+    "main.js": "/axios-pokemon/static/js/main.ada4d9ed.js",
     "index.html": "/axios-pokemon/index.html",
-    "main.964fdded.css.map": "/axios-pokemon/static/css/main.964fdded.css.map",
-    "main.e88c93d7.js.map": "/axios-pokemon/static/js/main.e88c93d7.js.map"
+    "main.847f05c2.css.map": "/axios-pokemon/static/css/main.847f05c2.css.map",
+    "main.ada4d9ed.js.map": "/axios-pokemon/static/js/main.ada4d9ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.e88c93d7.js"
+    "static/css/main.847f05c2.css",
+    "static/js/main.ada4d9ed.js"
   ]
 }
