@@ -1,5 +1,6 @@
 import axios from 'axios'
 import { useState, useEffect } from 'react'
+import Home from './Home';
 
 function Pokemon() {
 
@@ -19,6 +20,8 @@ function Pokemon() {
 
     return (
     <div>
+        <Home/>
+        <hr/>
         <h1>The Pokedex</h1>
         {
             pokemonData.map((element, i) => {
